@@ -1,0 +1,43 @@
+[/]
+dark-theme=false
+schema-version=uint32 3
+default-show-menubar=false
+
+[profiles:/:4e0a8489-673c-44f6-91bb-de288cd268f4]
+foreground-color='#838394949696'
+visible-name='Solarized (dark)'
+palette=['#070736364242', '#DCDC32322F2F', '#858599990000', '#B5B589890000', '#26268B8BD2D2', '#D3D336368282', '#2A2AA1A19898', '#EEEEE8E8D5D5', '#00002B2B3636', '#CBCB4B4B1616', '#58586E6E7575', '#65657B7B8383', '#838394949696', '#6C6C7171C4C4', '#9393A1A1A1A1', '#FDFDF6F6E3E3']
+use-system-font=false
+use-transparent-background=false
+use-theme-colors=false
+font='Source Code Pro for Powerline 11'
+bold-color-same-as-fg=false
+bold-color='#9393a1a1a1a1'
+background-color='#00002B2B3636'
+background-transparency-percent=0
+scrollbar-policy='never'
+
+[profiles:/:c92b5e88-c2cb-44f8-80f0-4a50cf76b212]
+foreground-color='#65657b7b8383'
+visible-name='Solarized (light)'
+login-shell=false
+palette=['#070736364242', '#DCDC32322F2F', '#858599990000', '#B5B589890000', '#26268B8BD2D2', '#D3D336368282', '#2A2AA1A19898', '#EEEEE8E8D5D5', '#00002B2B3636', '#CBCB4B4B1616', '#58586E6E7575', '#65657B7B8383', '#838394949696', '#6C6C7171C4C4', '#9393A1A1A1A1', '#FDFDF6F6E3E3']
+use-system-font=false
+use-transparent-background=false
+use-theme-colors=false
+font='Source Code Pro for Powerline 11'
+bold-color-same-as-fg=false
+bold-color='#58586e6e7575'
+background-color='#fdfdf6f6e3e3'
+scrollbar-policy='never'
+
+[profiles:]
+list=['4e0a8489-673c-44f6-91bb-de288cd268f4', 'c92b5e88-c2cb-44f8-80f0-4a50cf76b212']
+default='4e0a8489-673c-44f6-91bb-de288cd268f4'
+
+[profiles:/:97c4ceba-9279-40d4-8d71-ee5126b3ee06]
+background-color='rgb(253,246,227)'
+scrollbar-policy='never'
+use-theme-colors=false
+foreground-color='rgb(101,123,131)'
+visible-name='Solarized (light)'
